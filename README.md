@@ -12,3 +12,5 @@
 - **Maven** (Quản lý phụ thuộc)
 
 lan1
+
+lan2
